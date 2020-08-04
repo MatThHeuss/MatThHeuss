@@ -3,7 +3,7 @@
  # computer science student👨‍💻
 My name is Matheus Alencar 〽️
 - I’m currently learning javascript (Nodejs, ReactJS and React Native) 💻📱
--   Looking for web development projects 💻
+-   Looking for web development and mobile projects 💻
 
  Reach me out 👇
  
