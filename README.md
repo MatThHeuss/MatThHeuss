@@ -12,4 +12,3 @@ My name is Matheus Alencar 〽️
 [![Gmail Badge](https://img.shields.io/badge/-matheusalencar99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusalencar99@gmail.com)](mailto:matheusalencar99@gmail.com)
 
 
-![Matheus language usage][my-lang-usage]
