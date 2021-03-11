@@ -11,6 +11,6 @@ My name is Matheus Alencar 〽️
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Alencar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-alencar-955589164/)](https://www.linkedin.com/in/matheus-alencar-955589164/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusalencar99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusalencar99@gmail.com)](mailto:matheusalencar99@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatThHeuss)](https://github.com/MatThHeuss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatThHeuss&theme=dark)](https://github.com/MatThHeuss/github-readme-stats)
 
 
