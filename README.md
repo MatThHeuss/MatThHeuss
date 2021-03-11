@@ -5,9 +5,6 @@ My name is Matheus Alencar 〽️
 - I’m currently learning javascript (Nodejs, ReactJS and React Native) 💻📱
 -   Looking for web development and mobile projects 💻
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatThHeuss
-&theme=tokyonight)
-
  Reach me out 👇
  
  
