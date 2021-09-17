@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Santos</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center"> Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthheuss&label=Profile%20views&color=0e75b6&style=flat" alt="matthheuss" /> </p>
 
 - 🔭 I’m currently working on **on Several Projects using mainly Node.js, ReactJs and JavaScript**
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js...also Docker and Cloud Deployment**
+- 🌱 I’m currently learning **React.js, Python, Node.js...also Docker and Cloud Deployment**
 
 - 👨‍💻 All of my projects are available at [[... SOON](... SOON)]([... SOON](... SOON))
 
