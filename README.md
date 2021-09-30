@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthheuss&label=Profile%20views&color=0e75b6&style=flat" alt="matthheuss" /> </p>
 
-- 🔭 I’m currently working on **on Several Projects using mainly Node.js, ReactJs and JavaScript**
+- 🔭 I’m currently working on **on Several Projects using mainly Node.js, Python and Elixir**
 
 - 🌱 I’m currently learning **React.js, Python, Node.js...also Docker and Cloud Deployment**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [[... SOON](... SOON)]([... SOON](... SOON))
 
-- 💬 Ask me about **Node.js, JavaScript, ReactJs**
+- 💬 Ask me about **Node.js, JavaScript, Python**
 
 - 📫 How to reach me **matheus.dev.br@gmail.com**
 
