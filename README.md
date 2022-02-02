@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **on Several Projects using mainly Node.js and Python**
 
-- 🌱 I’m currently learning **React.js, Python, Node.js...also Docker and Cloud Deployment**
+- 🌱 I’m currently learning ** Python, Node.js...also Docker and Cloud Deployment**
 
 - 📫 How to reach me **matheus.dev.br@gmail.com**
 
