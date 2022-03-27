@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthheuss&label=Profile%20views&color=0e75b6&style=flat" alt="matthheuss" /> </p>
 
-- 🔭 I’m currently working on **on Several Projects using mainly Node.js and Python**
+- 🔭 I’m currently working on **on Several Projects using mainly Golang and Python**
 
-- 🌱 I’m currently learning ** Python, Node.js...also Docker and Cloud Deployment**
+- 🌱 I’m currently learning **Golang, python...also Docker and Cloud Deployment**
 
 - 📫 How to reach me **matheus.dev.br@gmail.com**
 
