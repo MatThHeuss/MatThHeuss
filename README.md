@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthheuss&label=Profile%20views&color=0e75b6&style=flat" alt="matthheuss" /> </p>
 
-- 🔭 I’m currently working on **on Several Projects using mainly Golang**
+- 🔭 I’m currently working **on Several Projects using mainly Golang**
 
 - 🌱 I’m currently learning **Golang, Docker and Cloud Deployment**
 
