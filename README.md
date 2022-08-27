@@ -10,5 +10,3 @@
 - 📫 How to reach me **matheus.dev.br@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matheus-santos-955589164/](https://www.linkedin.com/in/matheus-santos-955589164/)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthheuss&show_icons=true&locale=en&layout=compact" alt="matthheuss" /></p>
